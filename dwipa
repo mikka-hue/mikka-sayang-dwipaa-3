@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maaf ya, Sayang ❤️</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffe6e6;
+            text-align: center;
+            padding: 50px;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+        }
+        h1 {
+            color: #ff4d4d;
+        }
+        p {
+            font-size: 18px;
+            color: #333;
+        }
+        .heart {
+            color: red;
+            font-size: 50px;
+            animation: heartbeat 1s infinite alternate;
+        }
+        @keyframes heartbeat {
+            from { transform: scale(1); }
+            to { transform: scale(1.2); }
+        }
+        .image-container {
+            margin-top: 20px;
+        }
+        img {
+            width: 250px;
+            border-radius: 10px;
+            margin: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Maaf ya, Sayangku Dwipa 😔❤️</h1>
+        <p>Aku sadar aku emang bersikap kekanak-kanakan... tapi aku ndak pernah ada niatan buat nyakitin kamu.</p>
+	<p>jangan ngurangin perasaan kamu ke aku, sayangku, cintaku, calon suamiku:(</p>
+        <p>Kamu adalah orang paling berharga buatku, dan aku janji akan berusaha lebih baik! 🥺💕</p>
+        <div class="heart">❤️</div>
+        <div class="image-container">
+            <WhatsApp Image 2025-03-08 at 16.49.05_05b6d295.jpg" alt="Aku minta maaf">
+            <WhatsApp Image 2025-03-08 at 16.49.05_b9030514.jpg" alt="Aku sayang kamu">
+        </div>
+    </div>
+</body>
+</html>
